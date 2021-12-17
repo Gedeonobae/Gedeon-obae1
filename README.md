@@ -1,4 +1,4 @@
-# Well, hello there stalker <img src="./handwave.gif" width="30px"> 😄
+# Well, hello there stalker 😄
 
 I am Gedeon Obae Gekonge, a Software Engineer/DevOps Engineer/Cloud Developer. I write code daily...well, as frequently as I can.
 
