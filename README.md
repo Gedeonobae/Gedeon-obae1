@@ -1,3 +1,9 @@
+<meta name="author" content="Gedeon Obae Gekonge"/>
+<meta name="tittle" content="Gedeonobae"/>
+<meta name="description" content="Gedeon Obae Gekonge, Software Engineer."/>
+<meta name="keywords" content="Gedeon Obae Gekonge software engineer; in the following languages; python, C, Javascript, jQuery, Git, Github, Git bash, Html, CSS"/>
+
+
 # Well, hello there stalker 😄
 
 I am Gedeon Obae Gekonge, a Software Engineer/DevOps Engineer. I write code daily...well, as frequently as I can.
