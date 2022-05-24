@@ -29,7 +29,7 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 - C
 - Html
 - CSS
-
+<br>
 ### Education
 - ALX, **Software Engineering** [ALX](https://www.alxafrica.com/software-engineering)
 - Kirinyaga university **Software Engineering**, [Kirinyaga university](https://www.kyu.ac.ke)
