@@ -41,6 +41,7 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 - <img src="https://mpng.subpng.com/20201123/fv/transparent-reader-icon-humans-2-icon-lying-person-reading-ico-5fbbf59ba9c665.4475870516061536276954.jpg"  height="50" width="50"/> **Reading**
 - <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBgUIgU5lvvQO8NZW6h8AqK9PSo9F9-PltJvzbFr7CG3kYXwWI" height="50" width="50" /> **Cycling**
 
+
 ### Address
 - <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="50" width="70"/> gideonobae@gmail.com
 - [<img src="https://www.dailyforex.com/files/1200px-telegram_logo.svg.png" height="50" width="50" />](https://www.t.me/Gedeonobae) || [@Gedeonobae](https://www.t.me/Gedeonobae)
