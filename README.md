@@ -31,10 +31,13 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 - Html
 - CSS
 <br>
+
 ### Education
+
 - ALX, **Software Engineering** [ALX](https://www.alxafrica.com/software-engineering)<br>
 - Kirinyaga university **Software Engineering**, [Kirinyaga university](https://www.kyu.ac.ke)
 <br>
+
 ### Hobbies
 - <img src="https://www.freeiconspng.com/thumbs/travel-icon-png/plane-travel-flight-tourism-travel-icon-png-10.png" height="50" width="50" /> **Traveling**
 	
