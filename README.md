@@ -39,6 +39,7 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 <br>
 
 ### Hobbies
+
 - <img src="https://www.freeiconspng.com/thumbs/travel-icon-png/plane-travel-flight-tourism-travel-icon-png-10.png" height="50" width="50" /> **Traveling**
 	
 - <img src="https://mpng.subpng.com/20201123/fv/transparent-reader-icon-humans-2-icon-lying-person-reading-ico-5fbbf59ba9c665.4475870516061536276954.jpg"  height="50" width="50"/> **Reading**
@@ -46,6 +47,7 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 
 
 ### Address
+
 - <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="50" width="70"/> gideonobae@gmail.com
 
 - [<img src="https://www.dailyforex.com/files/1200px-telegram_logo.svg.png" height="50" width="50" />](https://www.t.me/Gedeonobae) || [@Gedeonobae](https://www.t.me/Gedeonobae)
