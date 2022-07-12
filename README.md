@@ -3,7 +3,6 @@
 <meta name="description" content="Gedeon Obae Gekonge, Software Engineer."/>
 <meta name="keywords" content="Gedeon Obae Gekonge software engineer; in the following languages; python, C, Javascript, jQuery, Git, Github, Git bash, Html, CSS"/>
 <meta content="Github and blog" name="classification" />
-
 <!--
 # Well, hello there stalker 😄
 
@@ -108,7 +107,7 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 
 [![Gedeonobae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gedeonobae)](https://github.com/Gedeonobae/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davixcky&hide_border=true&layout=compact" align="left" /></details>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedeonobae&hide_border=true&layout=compact" align="left" /></details>
 
 <br/>
 
