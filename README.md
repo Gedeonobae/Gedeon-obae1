@@ -109,7 +109,7 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 
 [![Gedeonobae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gedeonobae)](https://github.com/Gedeonobae/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedeonobae&hide_border=true&layout=compact" align="left" /></details>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davixcky&hide_border=true&layout=compact" align="left" /></details>
 
 <br/>
 
