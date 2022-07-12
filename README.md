@@ -52,6 +52,7 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 
 - [<img src="https://www.dailyforex.com/files/1200px-telegram_logo.svg.png" height="50" width="50" />](https://www.t.me/Gedeonobae) || [@Gedeonobae](https://www.t.me/Gedeonobae)
 --><br>
+
 ### I'm honored you're visiting my GitHub! :octocat:
 
 
@@ -67,6 +68,7 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 
 - ALX, **Software Engineering** [ALX](https://www.alxafrica.com/software-engineering)<br>
 - Kirinyaga university **Software Engineering**, [Kirinyaga university](https://www.kyu.ac.ke)
+
 <br>
 <!-- [ALX_Africa](https://www.alxafrica.com/) [Holberton school](https://www.holbertonschool.com/)
 -->
