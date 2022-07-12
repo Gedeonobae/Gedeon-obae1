@@ -52,8 +52,8 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 - <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="50" width="70"/> gideonobae@gmail.com
 
 - [<img src="https://www.dailyforex.com/files/1200px-telegram_logo.svg.png" height="50" width="50" />](https://www.t.me/Gedeonobae) || [@Gedeonobae](https://www.t.me/Gedeonobae)
--->
-<br>### I'm honored you're visiting my GitHub! :octocat:
+--><br>
+### I'm honored you're visiting my GitHub! :octocat:
 
 
 <div align="center">
