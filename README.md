@@ -69,11 +69,8 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 - ALX, **Software Engineering** [ALX](https://www.alxafrica.com/software-engineering)<br>
 - Kirinyaga university **Software Engineering**, [Kirinyaga university](https://www.kyu.ac.ke)
 <br>
-
-
 <!-- [ALX_Africa](https://www.alxafrica.com/) [Holberton school](https://www.holbertonschool.com/)
 -->
-
 - ❓ Ask me about anything 
 
 
@@ -86,9 +83,6 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 <!--📖 To read more about me, visit my [personal website](https://Gedeonobae.github.io/) or [LinkedIn](https://linkedin.com/in/fraol-tesfaye-mts/). -->
 
 ✉️ To connect, please do [email me](mailto:gideonobae@gmail.com)!
-
-
-
 <br/>
 
 <details><summary> My Skill Set </summary><table><tr><td valign="top" width="33%">
