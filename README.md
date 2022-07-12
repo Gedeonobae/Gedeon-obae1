@@ -53,9 +53,7 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 
 - [<img src="https://www.dailyforex.com/files/1200px-telegram_logo.svg.png" height="50" width="50" />](https://www.t.me/Gedeonobae) || [@Gedeonobae](https://www.t.me/Gedeonobae)
 -->
-<br>
-
-### I'm honored you're visiting my GitHub! :octocat:
+<br>### I'm honored you're visiting my GitHub! :octocat:
 
 
 <div align="center">
@@ -85,7 +83,7 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 - ⚡ Fun fact: am gemstone hunter 
 
 ## Connect with me  
-📖 To read more about me, visit my [personal website](https://Gedeonobae.github.io/) or [LinkedIn](https://linkedin.com/in/fraol-tesfaye-mts/).
+<!--📖 To read more about me, visit my [personal website](https://Gedeonobae.github.io/) or [LinkedIn](https://linkedin.com/in/fraol-tesfaye-mts/). -->
 
 ✉️ To connect, please do [email me](mailto:gideonobae@gmail.com)!
 
