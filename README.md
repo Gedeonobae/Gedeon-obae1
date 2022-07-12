@@ -71,11 +71,11 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 
 <br>
 <!-- [ALX_Africa](https://www.alxafrica.com/) [Holberton school](https://www.holbertonschool.com/)
--->
+--> <br>
 - ❓ Ask me about anything 
 
 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and Javascript
 
 
 - ⚡ Fun fact: am gemstone hunter 
