@@ -61,7 +61,9 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 </div>
 
 
-### <div align="center">I'm Gedeon Obae Gekonge, a software engineer 👨💻 learning  remotely from Kenya 🚀</div>  
+### <div align="center">I'm Gedeon Obae Gekonge, a software engineer 👨💻 learning  remotely from Kenya 🚀</div> 
+
+ 
 
 
 - 🔭 I’m currently a Student at...
