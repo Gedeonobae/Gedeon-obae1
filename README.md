@@ -6,6 +6,7 @@
 <!--
 # Well, hello there stalker 😄
 
+
 I am Gedeon Obae Gekonge, a Software Engineer/DevOps Engineer. I write code daily...well, as frequently as I can.
 
 I am experimenting 🔭 with new technologies to build some interesting stuff :rocket: :hammer_and_wrench: that make our lives easier.
@@ -97,6 +98,7 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />
+
 </div>
 
 </td><td valign="top" width="33%">
@@ -123,7 +125,7 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 
 
 
-<br/>
+<br/><br>
 
 
 <br />
