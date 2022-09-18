@@ -46,6 +46,22 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 - <img src="https://mpng.subpng.com/20201123/fv/transparent-reader-icon-humans-2-icon-lying-person-reading-ico-5fbbf59ba9c665.4475870516061536276954.jpg"  height="50" width="50"/> **Reading**
 - <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBgUIgU5lvvQO8NZW6h8AqK9PSo9F9-PltJvzbFr7CG3kYXwWI" height="50" width="50" /> **Cycling**
 
+<!--
+## :wrench:  Skills and Tools
+
+These are the languages, frameworks and tools that I have been using:  
+
+
+| | Proficient | Competent | Beginner |
+| :-: | :-: | :-: | :-: |
+| Languages | Kotlin | Bash, CSS, Dart, HTML, Ruby, SQL, XML | JavaScript, Java, Swift |
+| Frameworks | | Flutter, Rails | Bootstrap, Tailwind, Sass, YAML |
+| Tools | Android Studio, IntelliJ IDEA, VSCode | Visual Studio | XCode |
+| Operating Systems | Windows | Linux | MacOS |
+---
+
+<br>
+-->
 
 ### Address
 
