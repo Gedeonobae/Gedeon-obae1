@@ -130,9 +130,9 @@ These are the languages, frameworks and tools that I have been using:
 
 <br/>
 
-[![Gedeonobae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gedeonobae)](https://github.com/Gedeonobae/github-readme-stats)
+[![Gedeonobae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gedeon-obae)](https://github.com/Gedeon-obae/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedeonobae&hide_border=true&layout=compact" align="left" /></details>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedeon-obae&hide_border=true&layout=compact" align="left" /></details>
 
 <br/>
 
