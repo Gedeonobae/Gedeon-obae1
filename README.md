@@ -23,6 +23,8 @@ Tell your Search Engine it's time to go Global.
 
 Apart from coding, I also maintain a blog - you can find my articles on my [blog](https://medium.com/@gideonobae/what-happens-when-you-type-https-www-google-com-in-your-browser-and-press-enter-f28c412ab99)
 
+
+
 <hr/>
 <hr
 
