@@ -10,7 +10,7 @@
 <!--
 
 
-## Well, hello there    stalker 😄
+## Well, hello there stalker 😄
 
 
 I am Gedeon Obae Gekonge, a Software Engineer/DevOps Engineer. I write code daily...well, as frequently as I can.
