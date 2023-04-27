@@ -1,6 +1,8 @@
 <meta name="author" content="Gedeon Obae Gekonge"/>
 
+
 <meta name="tittle" content="Gedeonobae"/>
+
 
 <meta name="description" content="Gedeon Obae Gekonge, Software Engineer."/>
 
