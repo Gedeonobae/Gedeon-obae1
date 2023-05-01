@@ -55,6 +55,7 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 ### Education
 
 - ALX, **Software Engineering** [ALX](https://www.alxafrica.com/software-engineering)<br>
+
 - Kirinyaga university **Software Engineering**, [Kirinyaga university](https://www.kyu.ac.ke)
 <br>
 
