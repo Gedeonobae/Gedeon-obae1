@@ -6,6 +6,8 @@
 
 <meta name="description" content="Gedeon Obae Gekonge, Software Engineer."/>
 
+
+
 <meta name="keywords" content="Gedeon Obae Gekonge software engineer; in the following languages; python, C, Javascript, jQuery, Git, Github, Git bash, Html, CSS"/>
 
 <meta content="Github and blog" name="classification" />
