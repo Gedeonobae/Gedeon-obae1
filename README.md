@@ -112,6 +112,7 @@ These are the languages, frameworks and tools that I have been using:
 
 - 🔭 I’m currently a Student at...
 
+
 - ALX, **Software Engineering** [ALX](https://www.alxafrica.com/software-engineering)<br>
 
 - Kirinyaga university **Software Engineering**, [Kirinyaga university](https://www.kyu.ac.ke)
@@ -119,6 +120,7 @@ These are the languages, frameworks and tools that I have been using:
 <br>
 <!-- [ALX_Africa](https://www.alxafrica.com/) [Holberton school](https://www.holbertonschool.com/)
 --> <br>
+
 - ❓ Ask me about anything 
 
 
