@@ -126,7 +126,9 @@ These are the languages, frameworks and tools that I have been using:
 
 - ⚡ Fun fact: am gemstone hunter 
 
-## Connect with me  
+## Connect with me 
+
+
 <!--📖 To read more about me, visit my [personal website](https://Gedeonobae.github.io/) or [LinkedIn](https://linkedin.com/in/fraol-tesfaye-mts/). -->
 
 ✉️ To connect, please do [email me](mailto:gideonobae@gmail.com)!
