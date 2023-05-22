@@ -1,12 +1,8 @@
 <meta name="author" content="Gedeon Obae Gekonge"/>
 
-
 <meta name="tittle" content="Gedeonobae"/>
 
-
 <meta name="description" content="Gedeon Obae Gekonge, Software Engineer."/>
-
-
 
 <meta name="keywords" content="Gedeon Obae Gekonge software engineer; in the following languages; python, C, Javascript, jQuery, Git, Github, Git bash, Html, CSS"/>
 
@@ -27,11 +23,6 @@ Tell your Search Engine it's time to go Global.
 
 
 Apart from coding, I also maintain a blog - you can find my articles on my [blog](https://medium.com/@gideonobae/what-happens-when-you-type-https-www-google-com-in-your-browser-and-press-enter-f28c412ab99)
-
-
-
-
-
 
 <hr/>
 <hr
@@ -99,7 +90,6 @@ These are the languages, frameworks and tools that I have been using:
 
 ### <div align="center">I'm Gedeon Obae Gekonge, a software engineer 👨💻 learning  remotely from Kenya 🚀</div> 
 
- 
 
 
 - 🔭 I’m currently a Student at...
@@ -161,7 +151,6 @@ These are the languages, frameworks and tools that I have been using:
 <br/>
 
 
-
 <br/>
 
 
@@ -174,6 +163,5 @@ These are the languages, frameworks and tools that I have been using:
 <br />
 
 ----
-
 
 
