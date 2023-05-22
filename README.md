@@ -12,12 +12,7 @@
 
 <meta content="Github and blog" name="classification" />
 
-
-
-
 <!--
-
-
 ## Well, hello there stalker 😄
 
 
