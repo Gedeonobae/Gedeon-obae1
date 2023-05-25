@@ -31,6 +31,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my [blog
 I am a driven individual with the ability to adapt to any situtation and proven protentail to grow self and others.
 
 ### Skills
+
 - Python
 - Javascript
 - C
