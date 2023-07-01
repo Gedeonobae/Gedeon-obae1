@@ -169,5 +169,3 @@ These are the languages, frameworks and tools that I have been using:
 <br />
 
 ----
-
-
