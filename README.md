@@ -38,6 +38,7 @@ I am a driven individual with the ability to adapt to any situtation and proven 
 ### Skills
 
 - Python
+  
 - Javascript
 - C
 - Html
