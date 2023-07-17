@@ -21,7 +21,7 @@ I am experimenting 🔭 with new technologies to build some interesting stuff :r
 Tell your Search Engine it's time to go Global.
 
 
-## &#x270d; Blog & Writing
+## &#x270d; Blog &  Writing
 
 
 Apart from coding, I also maintain a blog - you can find my articles on my
